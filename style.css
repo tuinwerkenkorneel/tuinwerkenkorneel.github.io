@@ -1,0 +1,42 @@
+﻿body {
+	background: url("img/gras.jpg");
+	no repeat center fixed;
+	background-size: cover;
+}
+
+@font-face {
+	font-family: Architex;
+	src: url(fnt/Architex.ttf);
+}
+
+div{
+	background: rgba(56, 56, 56,0.8);
+	width: 30%;
+	min-width:400px;
+	margin: 260px auto;
+	text-align: center;
+	border-radius: 25px;
+
+}
+h1{
+	font-family:Architex;
+	font-size:5em;
+	color:#d4d4d4;
+	
+}
+h3{
+	font-size:3em;
+	color:#cabb00;
+	
+}
+h4{
+	font-size:1.5em;
+	color:#d4d4d4;
+	
+}
+p{
+	font-size:1.5em;
+	color:#cabb00;
+	font-weight: bold;
+	
+}
